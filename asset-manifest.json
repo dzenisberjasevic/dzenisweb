@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dzenisweb/static/css/main.d3f76ec4.css",
-    "main.js": "/dzenisweb/static/js/main.0ea2eab1.js",
+    "main.js": "/dzenisweb/static/js/main.e971fd46.js",
     "static/js/453.c5eaf93b.chunk.js": "/dzenisweb/static/js/453.c5eaf93b.chunk.js",
     "static/media/fa-solid-900.svg": "/dzenisweb/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/dzenisweb/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -14,17 +14,20 @@
     "static/media/fa-brands-400.woff": "/dzenisweb/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
     "static/media/fa-solid-900.woff2": "/dzenisweb/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
     "static/media/fa-brands-400.woff2": "/dzenisweb/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/htmlcssjs.png": "/dzenisweb/static/media/htmlcssjs.e9763b4817d9bc6ff633.png",
+    "static/media/wordpress.png": "/dzenisweb/static/media/wordpress.4459c725462a52c23c3f.png",
     "static/media/fa-regular-400.eot": "/dzenisweb/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
     "static/media/fa-regular-400.ttf": "/dzenisweb/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/e-commerce.png": "/dzenisweb/static/media/e-commerce.072f4eb3afcb051107f9.png",
     "static/media/fa-regular-400.woff": "/dzenisweb/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/dzenisweb/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/dzenisweb/index.html",
     "main.d3f76ec4.css.map": "/dzenisweb/static/css/main.d3f76ec4.css.map",
-    "main.0ea2eab1.js.map": "/dzenisweb/static/js/main.0ea2eab1.js.map",
+    "main.e971fd46.js.map": "/dzenisweb/static/js/main.e971fd46.js.map",
     "453.c5eaf93b.chunk.js.map": "/dzenisweb/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3f76ec4.css",
-    "static/js/main.0ea2eab1.js"
+    "static/js/main.e971fd46.js"
   ]
 }
