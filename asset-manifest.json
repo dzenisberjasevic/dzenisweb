@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dzenisweb/static/css/main.080fe70d.css",
-    "main.js": "/dzenisweb/static/js/main.d87b4551.js",
+    "main.css": "/dzenisweb/static/css/main.1504c6fe.css",
+    "main.js": "/dzenisweb/static/js/main.72372545.js",
     "static/js/453.c5eaf93b.chunk.js": "/dzenisweb/static/js/453.c5eaf93b.chunk.js",
     "static/media/fa-solid-900.svg": "/dzenisweb/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/dzenisweb/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -10,11 +10,13 @@
     "static/media/fa-regular-400.svg": "/dzenisweb/static/media/fa-regular-400.4689f52cc96215721344.svg",
     "static/media/fa-brands-400.eot": "/dzenisweb/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
     "static/media/fa-brands-400.ttf": "/dzenisweb/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/maintenance.png": "/dzenisweb/static/media/maintenance.ef655852438701b1a4d8.png",
     "static/media/fa-solid-900.woff": "/dzenisweb/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
     "static/media/fa-brands-400.woff": "/dzenisweb/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
     "static/media/fa-solid-900.woff2": "/dzenisweb/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
     "static/media/react.png": "/dzenisweb/static/media/react.cf6b39bc9f4db5cb6ac0.png",
     "static/media/fa-brands-400.woff2": "/dzenisweb/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/web.png": "/dzenisweb/static/media/web.d43ff21336a736c3df19.png",
     "static/media/htmlcssjs.png": "/dzenisweb/static/media/htmlcssjs.e9763b4817d9bc6ff633.png",
     "static/media/wordpress.png": "/dzenisweb/static/media/wordpress.4459c725462a52c23c3f.png",
     "static/media/seo.png": "/dzenisweb/static/media/seo.510074b0ea50f11da265.png",
@@ -25,12 +27,12 @@
     "static/media/fa-regular-400.woff": "/dzenisweb/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/dzenisweb/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/dzenisweb/index.html",
-    "main.080fe70d.css.map": "/dzenisweb/static/css/main.080fe70d.css.map",
-    "main.d87b4551.js.map": "/dzenisweb/static/js/main.d87b4551.js.map",
+    "main.1504c6fe.css.map": "/dzenisweb/static/css/main.1504c6fe.css.map",
+    "main.72372545.js.map": "/dzenisweb/static/js/main.72372545.js.map",
     "453.c5eaf93b.chunk.js.map": "/dzenisweb/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.080fe70d.css",
-    "static/js/main.d87b4551.js"
+    "static/css/main.1504c6fe.css",
+    "static/js/main.72372545.js"
   ]
 }
