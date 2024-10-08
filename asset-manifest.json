@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/dzenisweb/static/css/main.1504c6fe.css",
-    "main.js": "/dzenisweb/static/js/main.d8cd20d6.js",
+    "main.js": "/dzenisweb/static/js/main.480369e7.js",
     "static/js/453.c5eaf93b.chunk.js": "/dzenisweb/static/js/453.c5eaf93b.chunk.js",
     "static/media/fa-solid-900.svg": "/dzenisweb/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/dzenisweb/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/banner-shape-1.png": "/dzenisweb/static/media/banner-shape-1.a65ebbb99c3657a4d917.png",
     "static/media/fa-solid-900.eot": "/dzenisweb/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
     "static/media/fa-solid-900.ttf": "/dzenisweb/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
     "static/media/fa-regular-400.svg": "/dzenisweb/static/media/fa-regular-400.4689f52cc96215721344.svg",
@@ -28,11 +29,11 @@
     "static/media/fa-regular-400.woff2": "/dzenisweb/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/dzenisweb/index.html",
     "main.1504c6fe.css.map": "/dzenisweb/static/css/main.1504c6fe.css.map",
-    "main.d8cd20d6.js.map": "/dzenisweb/static/js/main.d8cd20d6.js.map",
+    "main.480369e7.js.map": "/dzenisweb/static/js/main.480369e7.js.map",
     "453.c5eaf93b.chunk.js.map": "/dzenisweb/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1504c6fe.css",
-    "static/js/main.d8cd20d6.js"
+    "static/js/main.480369e7.js"
   ]
 }
