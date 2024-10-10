@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/dzenisweb/static/css/main.1504c6fe.css",
-    "main.js": "/dzenisweb/static/js/main.480369e7.js",
+    "main.js": "/dzenisweb/static/js/main.e7a8ede1.js",
     "static/js/453.c5eaf93b.chunk.js": "/dzenisweb/static/js/453.c5eaf93b.chunk.js",
     "static/media/fa-solid-900.svg": "/dzenisweb/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/dzenisweb/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/banner-shape-1.png": "/dzenisweb/static/media/banner-shape-1.a65ebbb99c3657a4d917.png",
     "static/media/fa-solid-900.eot": "/dzenisweb/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
     "static/media/fa-solid-900.ttf": "/dzenisweb/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/ficicompanylogo.png": "/dzenisweb/static/media/ficicompanylogo.140e21f9f0aa4d013100.png",
     "static/media/fa-regular-400.svg": "/dzenisweb/static/media/fa-regular-400.4689f52cc96215721344.svg",
     "static/media/fa-brands-400.eot": "/dzenisweb/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
     "static/media/fa-brands-400.ttf": "/dzenisweb/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
@@ -22,18 +23,21 @@
     "static/media/wordpress.png": "/dzenisweb/static/media/wordpress.4459c725462a52c23c3f.png",
     "static/media/seo.png": "/dzenisweb/static/media/seo.510074b0ea50f11da265.png",
     "static/media/djangoo.png": "/dzenisweb/static/media/djangoo.4c0ebba2af2a4ab326f4.png",
+    "static/media/camplogo.png": "/dzenisweb/static/media/camplogo.c5075b0079e09d2a3830.png",
     "static/media/fa-regular-400.eot": "/dzenisweb/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
     "static/media/fa-regular-400.ttf": "/dzenisweb/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
     "static/media/e-commerce.png": "/dzenisweb/static/media/e-commerce.072f4eb3afcb051107f9.png",
     "static/media/fa-regular-400.woff": "/dzenisweb/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/dzenisweb/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "static/media/circle-text-light.svg": "/dzenisweb/static/media/circle-text-light.27b06884777682f0518992fe87ca8458.svg",
+    "static/media/circle-text.svg": "/dzenisweb/static/media/circle-text.6be8cbf8fc828ffe7b85c7ada30b8240.svg",
     "index.html": "/dzenisweb/index.html",
     "main.1504c6fe.css.map": "/dzenisweb/static/css/main.1504c6fe.css.map",
-    "main.480369e7.js.map": "/dzenisweb/static/js/main.480369e7.js.map",
+    "main.e7a8ede1.js.map": "/dzenisweb/static/js/main.e7a8ede1.js.map",
     "453.c5eaf93b.chunk.js.map": "/dzenisweb/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1504c6fe.css",
-    "static/js/main.480369e7.js"
+    "static/js/main.e7a8ede1.js"
   ]
 }
