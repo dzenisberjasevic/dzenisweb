@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dzenisweb/static/css/main.1504c6fe.css",
-    "main.js": "/dzenisweb/static/js/main.1390de03.js",
+    "main.css": "/dzenisweb/static/css/main.07e1faa4.css",
+    "main.js": "/dzenisweb/static/js/main.63d13762.js",
     "static/js/453.c5eaf93b.chunk.js": "/dzenisweb/static/js/453.c5eaf93b.chunk.js",
     "static/media/konobavotralogo.png": "/dzenisweb/static/media/konobavotralogo.832c28bd4971a1bd1f0b.png",
     "static/media/fa-solid-900.svg": "/dzenisweb/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
@@ -35,12 +35,12 @@
     "index.html": "/dzenisweb/index.html",
     "static/media/plus.svg": "/dzenisweb/static/media/plus.0aa12894b6aa753f1d2b34fea8b5e151.svg",
     "static/media/minus.svg": "/dzenisweb/static/media/minus.4c0cc70622e8afbf74cde7914c78bdf3.svg",
-    "main.1504c6fe.css.map": "/dzenisweb/static/css/main.1504c6fe.css.map",
-    "main.1390de03.js.map": "/dzenisweb/static/js/main.1390de03.js.map",
+    "main.07e1faa4.css.map": "/dzenisweb/static/css/main.07e1faa4.css.map",
+    "main.63d13762.js.map": "/dzenisweb/static/js/main.63d13762.js.map",
     "453.c5eaf93b.chunk.js.map": "/dzenisweb/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1504c6fe.css",
-    "static/js/main.1390de03.js"
+    "static/css/main.07e1faa4.css",
+    "static/js/main.63d13762.js"
   ]
 }
